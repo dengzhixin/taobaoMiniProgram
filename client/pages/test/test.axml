@@ -1,0 +1,6 @@
+<view>
+  这是二级页面
+  <button type="primary" onTap="goback">
+  返回
+  </button>
+</view>

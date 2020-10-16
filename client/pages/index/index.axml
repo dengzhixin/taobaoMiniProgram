@@ -1,0 +1,6 @@
+<view>
+  这是首页
+  <button type="primary" onTap="toTestPage">
+  跳转到二级页面
+  </button>
+</view>

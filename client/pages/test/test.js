@@ -1,0 +1,5 @@
+Page({
+  goback(){
+    my.navigateBack();
+  }
+});
